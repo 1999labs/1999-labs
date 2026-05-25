@@ -1,6 +1,6 @@
 ## 1999 Labs
 
-![1999 logo](1999banner.png)
+![1999 logo](logo1999.png)
 
 Creative studio connecting people, ideas and intelligence in unexpected ways
 
